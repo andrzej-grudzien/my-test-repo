@@ -1,0 +1,41 @@
+actions:
+- operation:
+    name: Query task (1770802265255)
+    dataset: dataform
+    project: cloud-airflow-dev3
+    filename: query_1770802265255.sql
+- operation:
+    name: Query task (1770802269977)
+    dataset: dataform
+    project: cloud-airflow-dev3
+    filename: query_1770802269977.sql
+- operation:
+    name: Query task (1770802273579)
+    dataset: dataform
+    project: cloud-airflow-dev3
+    filename: query_1770802273579.sql
+- operation:
+    name: dasd
+    dataset: dataform
+    project: cloud-airflow-dev3
+    filename: query_1770802276770.sql
+- operation:
+    name: Query task (1770802279786)
+    dataset: dataform
+    project: cloud-airflow-dev3
+    filename: query_1770802279786.sql
+- operation:
+    name: Query task (1770802282608)
+    dataset: dataform
+    project: cloud-airflow-dev3
+    filename: query_1770802282608.sql
+- operation:
+    name: Query task (1770802319769)
+    dataset: dataform
+    project: cloud-airflow-dev3
+    filename: query_1770802319769.sql
+- operation:
+    name: dasdasdasdas
+    dataset: dataform
+    project: cloud-airflow-dev3
+    filename: query_1770802323479.sql
