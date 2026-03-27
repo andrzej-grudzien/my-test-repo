@@ -1,0 +1,4 @@
+dataformCoreVersion: 3.0.16
+defaultProject: cloud-airflow-dev3
+defaultDataset: dataform
+defaultLocation: europe-west1
